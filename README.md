@@ -37,7 +37,7 @@ return-orders-api/
 │   ├── types/
 │   │   └── ReturnOrder.ts   # Type definition for ReturnOrder
 │   ├── data/
-│   │   └── mockReturnOrders.ts  # Mock data
+│   │   └── returnOrders.ts  # Mock data
 │   └── server.ts            # Express server setup
 ├── package.json
 └── tsconfig.json
